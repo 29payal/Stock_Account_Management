@@ -1,0 +1,24 @@
+{
+ "StockMarket": [
+  {
+    "StockName": "Reliance",
+    "NumberOfShares": 2,
+    "SharePrice": 2606
+  },
+  {
+    "StockName": "TCS",
+    "NumberOfShares": 1,
+    "SharePrice": 3251
+  },
+  {
+    "StockName": "HDFCBank",
+    "NumberOfShares": 4,
+    "SharePrice": 1498
+  },
+  {
+    "StockName": "WIPRO",
+    "NumberOfShares": 3,
+    "SharePrice": 1006
+  }
+ ]
+}
